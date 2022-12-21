@@ -3,7 +3,7 @@ Improvement of Acute Lymphoblastic Leukaemia Classification by Using Convolution
 
 Acute lymphoblastic leukaemia (ALL) is a type of blood cancer. It starts from white blood cells called lymphocytes in the bone marrow.
 In this research, we proposed CNN classification model along with squeeze-and-excitation method to detect PBS images and to classify leukaemia cases. 
-The proposed model is tested on a publicly available ALL dataset, comprising 3562 PBS images from 89 patients suspected of ALL, including 25 healthy individuals with a benign diagnosis (hematogone) and 64 patients with a definitive diagnosis of ALL subtypes. 
+The proposed model is tested on a publicly available ALL dataset from Kaggle, comprising 3562 PBS images from 89 patients suspected of ALL, including 25 healthy individuals with a benign diagnosis (hematogone) and 64 patients with a definitive diagnosis of ALL subtypes. 
 The model exhibits good results and can be utilized to make a reliable computer-aided diagnosis of leukaemia cancer. 
 We proposed an improvement of the deep learning model for acute lymphoblastic leukaemia classification by using squeeze-and-excitation learning. 
 The squeeze-and-excitation operation enables the model to extract strong, relevant and discriminative features from four categories: Benign, Early pre-B, Pre-B and Pro-B. 
